@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hager-Aboshady
+- 👋 Hi, I’m Hager Aboshady
 - 👀 I’m interested in Cloud Platform Development
 - 🌱 I’m currently learning DevOps
 <!--- - 💞️ I’m looking to collaborate on ...  --->
