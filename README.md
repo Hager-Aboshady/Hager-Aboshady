@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hager Aboshady
-- 👀 I’m interested in Cloud Platform Development
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently Cloud Platform Development Trainee at ITI 
 <!--- - 💞️ I’m looking to collaborate on ...  --->
 - 📫 How to reach me ...
 
