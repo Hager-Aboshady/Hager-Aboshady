@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently Cloud Platform Development Trainee at ITI 
 <!--- - 💞️ I’m looking to collaborate on ...  --->
-- 📫 How to reach me ...
+- 📫 How to reach me  https://www.linkedin.com/in/hager-aboshady-1114b6173/
 
 <!---
 Hager-Aboshady/Hager-Aboshady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
